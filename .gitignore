@@ -1,0 +1,20 @@
+# Ignore .* files
+.env
+
+# Ignore Folders
+streamlit_env/
+notebooks/
+
+# Input Requirement Files
+requirements*.in
+
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+
+# Docu Files
+*.doc
+*.pdf
+
+# 
